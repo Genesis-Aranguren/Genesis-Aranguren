@@ -10,4 +10,4 @@
 
 <h3 align="left">Proyectos destacados🚀:</h3>
 
-<img width="232" alt="app2" src="https://github.com/user-attachments/assets/0bb57d13-d970-46c6-a34b-430bcdc0d3df">
+<img width="1232" alt="app2" src="https://github.com/user-attachments/assets/0bb57d13-d970-46c6-a34b-430bcdc0d3df">
